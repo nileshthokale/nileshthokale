@@ -70,20 +70,6 @@ I'm passionate about technology, programming, data, artificial intelligence, and
 
 ## 💻 Featured Projects
 
-### 🔐 GO KALI FREE
-**Cybersecurity Learning Platform**
-
-A platform designed to help learners explore cybersecurity, Kali Linux tools, Linux commands, and security concepts.
-
-- 121+ Kali Linux tools.
-- 163+ Linux commands.
-- 149+ cybersecurity articles.
-- Interactive learning resources and utilities.
-
-🌐 **Website:** https://gokalifree.in
-
-💻 **Repository:** https://github.com/nileshthokale/go-kali-free
-
 ### 🌐 Personal Portfolio
 My personal portfolio showcasing my projects, skills, and development journey.
 
