@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <path id="fwave" d="M0 70 Q 150 30 300 70 T 600 70 T 900 70 T 1200 70 T 1500 70 T 1800 70 T 2100 70 T 2400 70 V 160 H 0 Z"/>
+    <clipPath id="fframe"><rect width="1200" height="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#fframe)">
+    <g transform="rotate(180 600 60)">
+      <g transform="translate(0,-40)" opacity="0.35">
+        <use href="#fwave" fill="#7aa2f7">
+          <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+        </use>
+      </g>
+      <g transform="translate(0,-5)" opacity="0.55">
+        <use href="#fwave" fill="#bb9af7">
+          <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+        </use>
+      </g>
+      <g transform="translate(0,25)" opacity="0.9">
+        <use href="#fwave" fill="#1f2335">
+          <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/>
+        </use>
+      </g>
+    </g>
+  </g>
+</svg>

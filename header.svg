@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27">
+        <animate attributeName="stop-color" values="#1a1b27;#1f2335;#1a1b27" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24283b">
+        <animate attributeName="stop-color" values="#24283b;#2a2f4a;#24283b" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <path id="wave" d="M0 70 Q 150 30 300 70 T 600 70 T 900 70 T 1200 70 T 1500 70 T 1800 70 T 2100 70 T 2400 70 V 160 H 0 Z"/>
+    <clipPath id="frame"><rect width="1200" height="280"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <g clip-path="url(#frame)">
+    <g transform="translate(0,150)" opacity="0.35">
+      <use href="#wave" fill="#7aa2f7">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g transform="translate(0,185)" opacity="0.55">
+      <use href="#wave" fill="#bb9af7">
+        <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g transform="translate(0,215)" opacity="0.85">
+      <use href="#wave" fill="#1f2335">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="118" font-size="54" font-weight="bold" fill="url(#nameGrad)" opacity="0">
+      Nilesh Thokale
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="162" font-size="21" fill="#a9b1d6" opacity="0" letter-spacing="1">
+      MSc Data Science  |  Developer  |  Cybersecurity Enthusiast
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.9s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

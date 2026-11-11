@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nilesh%20Thokale&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MSc%20Data%20Science%20%7C%20Developer%20%26%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/nileshthokale/nileshthokale/main/header.svg" width="100%" alt="Nilesh Thokale" />
 
 <div align="center">
 
@@ -93,14 +93,6 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nileshthokale&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshthokale&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=nileshthokale&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
@@ -136,4 +128,4 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/nileshthokale/nileshthokale/main/footer.svg" width="100%" alt="" />
