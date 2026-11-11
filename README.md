@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nilesh%20Thokale&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MSc%20Data%20Science%20%7C%20Developer%20%26%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# 👋 Hi, I'm Nilesh Thokale
-
-### MSc Data Science Student | Computer Science Graduate | Developer & Cybersecurity Enthusiast
+<a href="https://github.com/nileshthokale">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=MSc+Data+Science+Student;Computer+Science+Graduate;Cybersecurity+Enthusiast;Creator+of+GO+KALI+FREE;Python+%7C+SQL+%7C+AI%2FML+Explorer" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/nileshthokale">
@@ -14,6 +16,11 @@
   <a href="https://nileshthokale.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nileshthokale&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nileshthokale?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </p>
 
 </div>
@@ -92,6 +99,30 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nileshthokale&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshthokale&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nileshthokale/nileshthokale/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nileshthokale/nileshthokale/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/nileshthokale/nileshthokale/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 ## 🤝 Connect With Me
 
 <p>
@@ -110,3 +141,5 @@ My personal portfolio showcasing my projects, skills, and development journey.
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
