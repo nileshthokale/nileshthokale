@@ -105,12 +105,6 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshthokale&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
-
-</div>
-
 ## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
